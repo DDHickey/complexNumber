@@ -1,0 +1,9 @@
+			>POLAR<     RECTANGULAR     COMPLEX     EXIT
+	   This will accept polar coordinates.
+			POLAR     >RECTANGULAR<     COMPLEX     EXIT
+  		     This will accept rectangular coordinates.
+			POLAR     RECTANGULAR     >COMPLEX<     EXIT
+	    			      This will accept complex coordinates.
+			POLAR     RECTANGULAR     COMPLEX     >EXIT<
+	    			                   This will exit the program.
+			       ENTER THE TYPE OF COORDINATES.
